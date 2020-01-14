@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/backgeound_location.iml" filepath="$PROJECT_DIR$/backgeound_location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/background_location.iml" filepath="$PROJECT_DIR$/background_location.iml" />
     </modules>
   </component>
 </project>
